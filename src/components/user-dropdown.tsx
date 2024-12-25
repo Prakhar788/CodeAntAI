@@ -13,7 +13,7 @@ const UserDropdown = () => {
     <div>
       <Select>
         <SelectTrigger className="w-full h-[40px]">
-          <SelectValue placeholder="UtkarshDhairyaPanwar" />
+          <SelectValue placeholder="Select" />
         </SelectTrigger>
 
         <SelectContent>
